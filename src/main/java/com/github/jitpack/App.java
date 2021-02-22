@@ -2,6 +2,7 @@ package com.github.jitpack;
 
 /**
  * Hello world!
+ * added new line
  *
  */
 public class App 
